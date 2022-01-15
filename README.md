@@ -1,5 +1,8 @@
-Hi, i am srinika.
-A keen and enthusiastic learner. Looking forward on getting started with open source.
+Hi, i am srinika.👋🏻
+
+A keen and spirited beginner.🌟
+
+Trying hands on open source contribution.👩🏻‍💻
 
 
 <!---
